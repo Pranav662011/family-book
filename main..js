@@ -1,0 +1,3 @@
+function next(){
+    var images["https://us.123rf.com/450wm/yupiramos/yupiramos1905/yupiramos190505227/122760736-little-girl-avatar-character-vector-illustration-design.jpg?ver=6"https://i.pinimg.com/originals/6d/77/0d/6d770ded345654dbd6a1bb7936a0fa06.jpg""https://thumbs.dreamstime.com/b/cute-boy-cartoon-illustration-86419835.jpg""https://image.freepik.com/free-vector/cartoon-mother-carrying-boy-her-arms_29190-4543.jpg""https://i.pinimg.com/originals/87/b8/3b/87b83ba77a10a1d3313ed7872918524d.jpg""https://i.pinimg.com/originals/7e/cf/16/7ecf1629515f7cbf656b6d9508d3f0a3.jpg"];
+}
